@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doting doctor, or, The icarion preacher calculated for the better instruction of King Blake of Coven-Garden, representing the meridian of his dunghill embassie where the pole is elevated many degrees beyond the manners of the King the author / by N.E. Gent.</title>
+            <author>N. E., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37943</idno>
+            <idno type="STC">Wing E19</idno>
+            <idno type="STC">ESTC R1032</idno>
+            <idno type="EEBO-CITATION">11780626</idno>
+            <idno type="OCLC">ocm 11780626</idno>
+            <idno type="VID">49034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49034)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doting doctor, or, The icarion preacher calculated for the better instruction of King Blake of Coven-Garden, representing the meridian of his dunghill embassie where the pole is elevated many degrees beyond the manners of the King the author / by N.E. Gent.</title>
+                  <author>N. E., Gent.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>W. B. --  (William Blake), fl. 1650-1670. --  Embassage from the Kings of the East to His Highnes the Lord Protector of England, Scotland and Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49034:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:49034:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>
+               <hi>The Doting DOCTOR,</hi> OR <hi>The Icarion PREACHER.</hi> Calculated for the better inſtruction of King <hi>BLAKE</hi> of <hi>Coven-Garden:</hi> Repreſenting the Meridian of his Dunghill Embaſſie, where the Pole is elevated many Degrees beyond the Manners of the King the Author.</p>
+            <p>By N. E. Gent. 1655.</p>
+            <q>
+               <bibl>1. Tim. 3.6.</bibl>
+               <p>Not a Novice, leſt being lifted up &amp;c.</p>
+            </q>
+            <p>Printed in the Yeare, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49034:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:49034:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>The Doting Doctor, <hi>OR,</hi> The Icarion Preacher.</head>
+            <p>BEloved, theſe are Dayes of Liberty, in which we may bee free to ſpeake or write our mindes (we hope) in Detection of any preſumption whatſoever, without any prejudice to Church, or State &amp;c. Our buſines therfore is to treat a little of a large Pamphlet ſet forth by one <hi>Blake</hi> a Draper, being thus en<g ref="char:EOLhyphen"/>tituled, viz: <hi>An Embaſſy from the Kings of the Eaſt to his Highnes the Lord Protector,</hi> wherin the man at firſt vaunteth highly, aim<g ref="char:EOLhyphen"/>ing at no low things, but in the end, for want of matter ſpirituall e<g ref="char:EOLhyphen"/>nough (for to the ſpirit he pretends much) he dawbs with untem<g ref="char:EOLhyphen"/>pered mortar not ſuiting the purpoſe of what he pretends too, ſo that of all his tedious trifling diſcourſe wee may ſay with <hi>Horace,</hi>
+               <q xml:lang="lat">
+                  <l>—<hi>amphora coepit</hi>
+                  </l>
+                  <l>
+                     <hi>Inſtitui currente rota cur urceus exit.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>It did begin at firſt to be a pot of Largeſt ſize,</l>
+                  <l>But in the end pot would not come, but pitcher did ariſe.</l>
+               </q>
+            </p>
+            <p>We paſs by our Preface and come to the ſubject matter of our diſ<g ref="char:EOLhyphen"/>courſe, viz. the Book as above Entituled, which ſeems to me to con<g ref="char:EOLhyphen"/>ſiſt of nothing but a meſſe of ſpiritual <hi>Nonſence,</hi> &amp; falacious ſtuffe, altogether unbecoming ſuch an Embaſſage, proceeding from ſo great a King of the Eaſt, but may it pleaſe your Majeſty (if you are a King) to diſcover to us that <hi>Samuell</hi> who anoynted your <hi>Grace:</hi> if you cannot, wee ſhall take you to bee more Ambitious then tru<g ref="char:EOLhyphen"/>ly vertu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us or Religious.</p>
+            <p>
+               <pb n="2" facs="tcp:49034:3"/>
+               <!-- PDF PAGE 87 -->
+Secondly, if you are a King of the Eaſt, I demand then what ſtar hath led you ſo far out of the way, or why you relate nothing of your ſtarry Conductor &amp;c. Thirdly, if ſo be you are a true King of the Eaſt, wherfore looked you not on thoſe Royall Preſidents who followed the ſtar at the birth of our Bleſſed Savior, viz <hi>Gasper, Balthazar, Melchior</hi> and in imitation brought ſome preſents which the Eaſt Country had aforded to declare you to have bin a reall King of the Eaſt, for the ſtory hath in thus of them. v<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z.</p>
+            <q>
+               <hi>Gaſper</hi> with his Myrrhe began theſe preſents to unfold</q>
+            <p>
+               <hi>Thu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Melchior <hi>brought in Frankinſence, &amp;</hi> Balthozor <hi>brought Gold.</hi> But not one word of any ſuch thing doe I fynd you pretend to offer at all: well then ſeing it in conſiſtent with Reaſon, that you ſhould be a King of the Eaſt part of the world, we will ſee how it may relate to the Eaſt of England, the ſcituation of your Highneſs houſe is Goven<g ref="char:punc">▪</g> Graden, London, which is indeed ſomthing North Eaſt, or (to ſpeak like a Marriner) Eaſt and by North from Charing Croſſe, which imports you to bee not K<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the Eaſt here neither: this ſavors now ſomthing of Pride, but before I ſum up the totall, it may be hee harh the Eaſt ſide of Worceſter houſe to Preach in (ſome may ſay) and ſo may entitle himſelfe King of the Eaſt from thence, if he ſhould have the Eaſt ſide of the houſe to preach in, as he hath not, yet could not hee be called King of the Eaſt for that at all; but oh that Royall <hi>Gaſpar</hi> were alive, what would hee ſay to this puny<g ref="char:punc">▪</g> King for his preſumption? ſurely thus might he diſdaine ſuch an unworthy compariſon:
+<q xml:lang="lat">Simia quam ſimilis turpiſſimae beſtia nobis.</q>
+               <q>I muſt needs wonder when I ſee, a pouch-mouth'd Ape ſo like to me.</q>
+            </p>
+            <p>Thus have we noted the manner of the man, wee come now to his Learning, which is much of the ſame ſtamp, with his manners, he begins with an Epiſtle to my Lord Protector, and another to the Iſrael of God; in the firſt his Grace is ſomething doubtfull of the conſtancy of <hi>Atlas,</hi> deems him to be drawing away his ſhoulders, letting the Heavens and Eternity ſo low, that he fears an intended conjunction before he be well prepared &amp;c. In the ſecond, he pro<g ref="char:EOLhyphen"/>feſſes not to care who rules, ſo Chriſt and his Saints Reign, <hi>viz.</hi> Thoſe who are beſt at praying and Preaching, Renowned King
+<pb n="3" facs="tcp:49034:3"/>
+               <!-- PDF PAGE 87 -->
+               <hi>William</hi> (but no Conqueror) heere is ſomething of modeſty—theſe words, if you mean onely ſpiritually; but I would propoſe one thing to your conſideration; have you not, think you, expulſed your ſelfe heer from Rule, in your deſire that onely thoſe who are beſt at praying and preaching might Reign? I hope, my Liedge, you are convinced of your own deficiency in both, as not being ſo excel<g ref="char:EOLhyphen"/>lent in either, as to be accounted or approved of, as one who is beſt at praying and preaching unleſs you are of the ſame opinion as you were ſome yeers ſince at Somerſet-houſe, to conclude thoſe beſt at both which cannot ſay, Boh to a Gooſe, as my ſelfe heard your hautineſſe moſt pittifully affirm.</p>
+            <p>But now his M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty vants of the Saints Managements, tells his Reader it is enough for <hi>Peter, Paul, James, Jack,</hi> or <hi>John,</hi> and the poore ſaints ſo to doe, &amp;c. before I aske his wiſdome what to doe, I demaund of him in what Diary, Kalender, or Chronicle of Saints he ever found Saint <hi>Jack,</hi> I know no reaſon his Excellency hath to gainſay the Anabaptiſt ſince himſelfe is tut'nd Anabaptizer of ſaints, now would I know what this Saint <hi>Jack</hi> with the reſt of his fel<g ref="char:EOLhyphen"/>lowes ſhould do, or what is enough for them to do, but my good King <hi>William</hi> tells me nothing of that but ſom of his fellow Kings (were they not all Buzzards or blockheads) might tell him hee did more then enough, when he writt ſuch a Mountaine of Non<g ref="char:EOLhyphen"/>ſence and illiterate ſtuffe, unbecomming ſo great a King of the Eaſt.</p>
+            <p>Inſteed of his impudencyes Picture hee preſents us with the Por<g ref="char:EOLhyphen"/>tract of a bird, which hee calles an Eagle, with a pen in the mouth of it ready made, though it bee better knowne (then his kingly witt) that in Eagle is not commonly trayned up to writing, and in<g ref="char:EOLhyphen"/>deed Eagles are birds which are very rare and ſeldome found in England, how his Malmſines got this into his Cage (wee know not) but much wonder, but Conſidering the paucity of ſuch Birds heere, I muſt beleeve that as his Embaſſy conſiſts of nothing but figments and owly-glaſſes and ſhaddowes, ſo hath he cut and carbed this ſhaddow of the Eagles writing after the conceite of his Beefe-Braind underſtanding &amp;c.</p>
+            <p>
+               <hi>Pag.</hi> 1. Come wee now to the Embaſſie it ſelfe, which wee will but touch lightly, leſt we ſhould glorifie this pretended King
+<pb n="4" facs="tcp:49034:4"/>
+               <!-- PDF PAGE 88 -->too much, in the very entry hee howles abominably for his Liberty and his <hi>Magna Charta</hi> purchaſed by the blood of Chriſt &amp;c. as if there were no ſuch thing granted as the ſeedome of Spirit. <hi>Pag.</hi> 7. Hee goes on charging my <hi>L. P.</hi> with keeping the Libertyes of his good King from him, with abundance more of the ſame ſtamp: and in the end of his ſabberings, tells us hee is ſo ſtraitned hee cannot owne Chriſt in the Congregations, nor make uſe of his priviledges in exerciſing his gifts there, and tis his ſin and ſhame to keep ſilent any longer: how faire would this Mouſe caſt a ſhadow like an E<g ref="char:EOLhyphen"/>lephant, how willingly would <hi>Eſops</hi> Crow become an Eagle? a fin and ſhame, to be ſilent any longer do you ſay, ſir, not I hope unleſſe your preaching tranſcend your writing; for know, that a foole is knowne by the multitude of words, but may it pleaſe your High<g ref="char:EOLhyphen"/>nes, who hath thus abridged you of your freedome? why did not your Grace continue your exerciſes longer at Somerſet houſe, when no one offred to quench the ruffling motions of your <hi>Eſau</hi> like Spiri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? I doubt your Majeſty had canted Nonſence ſo long there that you had prated your ſelfe aſhamed, and ſo deſerted your Miniſtry and Auditory both together? and yet now you are aſhamed to keep ſilence any longer? O wreſtles King of the Eaſt, neither well, full, nor faſting, will neither preaching nor ſilence ſatisfie you? ſure you have been overtaken with ſome Epidemick fit, which hath mighti<g ref="char:EOLhyphen"/>ly exhauſted the treaſury of your Majeſties wiſedome, and now your Hogsheads empty, how can wee expect otherwiſe but that it ſhould ſound? but hee goes on ſtill girding at my Lord <hi>P. O.</hi> my Lord <hi>Cromwell,</hi> (ſaith he) under God our Protector, if you ſay that the time is not yet come and defer us one moment longer, God will lay you by — out of the hearts of his deareſt ones, and raiſe deliverance ſome other way: how, what, not onely King but alſo Prophet, then bleſſed be the Drapers, is not this a pretty Sprinſius, belike hee was at Gods Counſell table and had a vote in the decree, it his prophecy bee true, or it may bee as it is moſt likely, hee hath drawn up ſome, muddy, naſty, exhalation by the ſtrength of his pragmatick underſtanding, and ſo generated ſome Cometicall chi<g ref="char:EOLhyphen"/>merae in his narrow Braynpan, but the matter being by nature hot (and he in a Religious Lunacy) chanced to make an eſcape through his hog-noddle, and hath by ſome kind of tranſmutation in its fall
+<pb n="5" facs="tcp:49034:4"/>
+               <!-- PDF PAGE 88 -->(or flight rather) becom a Commet, of no leſſe fury then the threat<g ref="char:EOLhyphen"/>ning of our chiefeſt Governours: is not this a fine ſwelling piece of vanity and hath certainly beene in the Univerſity of Bedlam, as ap<g ref="char:EOLhyphen"/>peares by the candor of his crackt wits?</p>
+            <p>
+               <hi>Pag.</hi> 10. Not like a Madman, or King of the Eaſt, but like a beaten Spaniell, or very crafty companion, hee fawns upon him whom hee hath curſed by bell, booke, and candle, even my <hi>L. P.</hi> though wee have rayled at you, prayed to God to blaſt your late proceedings, yet now we will hug you &amp;c. heere is a fine ſaintling that can imitate the Divell in the Proverb, as to bee ſo purely good if pleaſed, or the Satyre in the Fable can blow hot and cold with a breath, but heere thou luke-warme Laodicean, though thou art a King of the Eaſt, yet thy huggs, fawnings, prayers, &amp;c. of his Highneſs my <hi>L. P.</hi> will in no wiſe extenuate his reverend and Chriſtian eſteem of the learned to hearken to luch Ignora's as you, leſt with your huggs, prayers and cloſeſt embraces, you alſo have ready at hand a ſop, with a Haile Maſter at the end &amp;c.</p>
+            <p>
+               <label>Pag. 14.</label> This King <hi>Symplicius</hi> cautionizeth the honeſt Prote<g ref="char:EOLhyphen"/>ſtant, not to winke at what he ſees in gifted Chriſtians, but to take heed hee refuſe not him that ſpeakes from Heaven, for God gives them gifts without latine phraſes though ten thouſand refuſe it, how; now: what, a King? and King of the Eaſt too<g ref="char:punc">▪</g> and ſpeake againſt Latine, O'h ignorant Animal! O'h unworthy King of the Eaſt!</p>
+            <q>
+               <l>I looke for Scholler ſhip, but it appeares</l>
+               <l>Hoods make no Monkes, nor bea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds Philoſophers.</l>
+            </q>
+            <p>
+               <label>Pag.16.</label> This <hi>Icarus</hi> will parley with the Miniſters too, and ſayes truly that of all good men godly Miniſters are the beſt; but a little after as if hee had ſpoken a left handed truth, tells us they are ſo in one ſence, and ſayes alſo that the ſetting up of ſuch dull men, is the pulling downe of the gifted, for their preaching is empty, their praying Pop<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh, &amp;c. (and in Pag. 66. wiſhes his fellow Kings never to ſtay for Pſalme-men or Readers for they may goe all to play, or to plough, or ſing <hi>Te Deum</hi>) this ſayes King wiſeacres Grice pleaſes for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent but damns in the <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd; but weel' leave theſe ſnaffs and old Prieſts: thus far King <hi>Broomſtaffe,</hi> Would any body thinke that his Majeſty ſhould bee ſo fortiſh as to thinke that
+<pb n="6" facs="tcp:49034:5"/>
+               <!-- PDF PAGE 89 -->his Majeſty ſhould be ſo ſottiſh as to thinke that, to ſing <hi>Te Deum,</hi> were not as good as his nonſenſicall prating; for what doth the A<g ref="char:EOLhyphen"/>nimall intend by it? doe we not all know that ſinging to God is the moſt acceptableſt ſacrifice in the world? or did this King Dunder<g ref="char:EOLhyphen"/>head thinke the ſinging <hi>Te Deum</hi> had ſignified ſomewhat elſe. be<g ref="char:EOLhyphen"/>ſide ſinging to God? but ile leave this Buttologiſt who can damne both City and Countrey for going to Marybone, Padington, &amp;c. and hee calls it to have a licke at Antichriſts tayle, I onely aske the Green head this Quere, whether men had not better goe to Mari<g ref="char:EOLhyphen"/>bone to here a learned Scholler preach? (for ſuch is Doctor <hi>Swad<g ref="char:EOLhyphen"/>lin</hi>) then to goe to Worceſter Houſe to ſee the Kings of the Eaſt throw ſtones againſt the wind in the Weſt:</p>
+            <q>
+               <l>O ſimple Blake, O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſilly Eaſterne King,</l>
+               <l>Canſt thou damn folkes, and not <hi>Te Deum</hi> ſing?</l>
+            </q>
+            <p>This Captaine <hi>Cretenſis</hi> is ſtill on his march, comming with great threats and brags againſt the Miniſtry in Pag. 23 thus, ſtand a<g ref="char:EOLhyphen"/>way ſtraight, or wee will preach you downe, pray you downe, write you downe, Pull you down headlong &amp;c.—Make room for yong <hi>Phaeton,</hi> hee comes loftily mounted with buggs words in his mouth, not like a King of the Eaſt, but like a ſeaven headed <hi>Hydra</hi> or a <hi>Hercules</hi> at leaſt, thus hath his Majeſty ſhewed impu<g ref="char:EOLhyphen"/>dence enough to make himſelfe a foole<g ref="char:punc">▪</g> in barking like an angry Maſtife at the reverend Miniſtry, at whoſe feet this vaine fellow may learne better manners, at leaſt to know his duty toward his neighbour; but it ſhould ſeeme with his reaſon he hath abjured all good manners as well as common civillity &amp;c. But</p>
+            <p>The folly which Grand <hi>Pluto</hi> dreads, King <hi>Blake</hi> of Covent Garden ſpread <hi>Pag</hi> 60 To ſhew his power or will rather, hee threatens the poore Goſpel Miniſter or gifted Chriſtian, if he once takes him in a lie, or cheating, &amp;c. hee will hang him at his ſhop: your Majeſty is ſomewhat too rigid heere, for I queſtion not but were your Grace obſerved in cutting off but one yard of Cloth, we might finde you guilty of twenty lies, if nor a little cheating too: would your goodneſſe bee contented if (<hi>Hamman</hi> l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke) you hand<g ref="char:EOLhyphen"/>ſell what you have pu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chaſed for poor <hi>Mordecay:</hi> but Sir me thinks you deviate wonderfully heere from him who is the t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue preſident of Kings, even the Lord Jeſus, more mercifull unto <hi>Peter</hi> when hee
+<pb n="7" facs="tcp:49034:7"/>
+               <!-- PDF PAGE 89 -->he had not lyed onely, but alſo foreſworne himſelfe, but I paſs this by as a zealous bolt too ſoon ſhot &amp;c.</p>
+            <p>
+               <label>Pag. 53.</label> But to wind up all, his Grace ſhewes us how fruit<g ref="char:EOLhyphen"/>full he would be in his worke, againſt ſin, Satan, Turk, Pope, Di<g ref="char:EOLhyphen"/>vells Mates —Muncks, Punks, Jewes,—Rogues, Rovers,—Pigmongers, Whoremongers, Applemongers, Egg, Corn, Peaſe<g ref="char:punc">▪</g> and Baconmongers, —Greedy doggs &amp;c.</p>
+            <p>Again, to bind up all his legall ſtuffe in a bundle (as in <hi>Pag.</hi> 43 himſelfe do<gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>h the Scripture) away runs the rabble, (and they muſt needes run that the Divell drives) the Kings of the Eaſt, drive theſe Locuſts to the Weſt, the Divells to their Dens, Imphs to their dams, Errors to their homes; all to the Divell, moſt to the Pope: (O acute Logitian) many to the M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs Prieſt, the other Prieſt too and his taile, luſtfull, lazy, idle,—Shakers, Quakers, and ungodly Ranters,—and your Iurney-jobbers, red fac'd Clarkes, Sawers, Pſalme-men, Wardens, Pares,—drunken Readers &amp;c.</p>
+            <q>
+               <l>Good King be not ſo laviſh, halfe this ſtuffe</l>
+               <l>Will make a Coate, to prove you foole enough</l>
+            </q>
+            <p>Thus you ſee how his Majeſty fooms at mouth, and beats him<g ref="char:EOLhyphen"/>ſelfe as if hee were in a Religious Lunacy, (<hi>Alias</hi> the falling Sick<g ref="char:EOLhyphen"/>nes) or elſe moſt deeply troubled with <hi>Defluxionem per caput ver<g ref="char:EOLhyphen"/>miculans in Naremcraſſam abtuſamque,</hi> which makes him thus to Glander and ſling about his filth. But I have honored this <hi>[Subli<g ref="char:EOLhyphen"/>cium] caput</hi> too much already, I forbeare, yet ſince he hath Adventu<g ref="char:EOLhyphen"/>red upon the ſtage, my muſe accounts him ſomwhat deſerving, <hi>Ergo:</hi> in the name of <hi>Democritus,</hi> I dub him an honorable fellow.</p>
+            <q>
+               <l>Riſe up <hi>Will Blake,</hi> mount up (alaſs)!</l>
+               <l>An Eaſtern King, or Engliſh Aſſe.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49034:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="8" facs="tcp:49034:6"/>
+            <!-- PDF PAGE 90 -->
+            <head>To the Reader.</head>
+            <p>I Had not noted this Palpit-monſters ignorance, had bee not carped at the regular courſe of nature, he might haue bin a writer, and Preacher, <hi>ex argillo in luto conficti,</hi> ſtill, had hee bin ſo wiſe as not to have betrayd his ignorance, in joyning world gazing, and ſtargazing together, and carping at the glory of Science, a thing he ſo little underſtands, but <hi>Scientia non habet inimicum niſi ignorantem,</hi> it his ſpe<g ref="char:EOLhyphen"/>culation be ſo divine and piercing, that he thinks he can gaze beyond the ſtars, or above them, hee muſt know hee cannot doe that unleſſe he firſt gaze up to them, or elſe (to make his poſition good) he muſt pull out thoſe <hi>oculus</hi> out of his owne head, and gaze only by <hi>Oculi fidei,</hi> or the world and ſtars (to uſe his Majeſties Dialect) thoſe carnall objects, will betray his ignorant ſight, ſo long, as thoſe carnall eyes, have a proſ<g ref="char:EOLhyphen"/>pect out of that <hi>capitis</hi> of his, &amp;c. But.</p>
+            <epigraph>
+               <q>
+                  <l>Fox-like he ſlights thoſe things he cannot Reach,</l>
+                  <l>Ile pray for Prophets, when ſuch Aſſes Preach.</l>
+               </q>
+            </epigraph>
+         </div>
+      </back>
+   </text>
+</TEI>
